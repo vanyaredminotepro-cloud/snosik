@@ -1,0 +1,5 @@
+2026-05-29 14:16:17 | INFO | telethon.network.mtprotosender | Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-05-29 14:16:17 | INFO | telethon.network.mtprotosender | Not disconnecting (already have no connection)
+2026-05-29 14:16:17 | INFO | telethon.network.mtprotosender | Not disconnecting (already have no connection)
+2026-05-29 14:16:17 | INFO | aiogram.dispatcher | Polling stopped for bot @obsautonewsbot id=8632955122 - 'Авто-новости'
+2026-05-29 14:16:17 | INFO | aiogram.dispatcher | Polling stopped
